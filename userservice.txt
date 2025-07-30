@@ -1,0 +1,3 @@
+This is userservice.txt
+username=user
+password=password
